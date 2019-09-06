@@ -14,7 +14,8 @@ function [logS logFq, Hq, tq, Dq, aq, fq] = mfdfa(X, m, q)
 % For those using this script, your are recommended to cite the following 
 %   papers in your work: 
 %     Luo, M., Leung, Y., Zhou, Y., Zhang, W., 2015. Scaling behaviors of 
-%         global sea surface temperature. Journal of Climate, 28: 3122-3132.
+%         global sea surface temperature. Journal of Climate, 28: 3122-3132,
+%         https://doi.org/10.1175/JCLI-D-13-00743.1
 %
 %
 
