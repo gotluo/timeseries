@@ -36,7 +36,7 @@ F_q = zeros(num_s, length(q));
 % s_min = m + 3;
 % s_max = round(N / 3);
 s_min = 12;
-s_max = round(N / 4);
+s_max = round(N / 4); 
 
 scales = linspace(log(s_min), log(s_max), num_s);
 for i = 1 : num_s
